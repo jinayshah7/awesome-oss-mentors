@@ -18,21 +18,13 @@ When creating a pull request to add yourself as a mentor, please make sure that 
 | Contributor/Mentor Name | PR Mentorship Focus area | Contact |
 | :-----------            | :---                     |    :--- |
 | [Jason Brown](https://twitter.com/jasobrown) | Apache Cassandra | |
-| [Henrik Feldt](https://twitter.com/henrikfeldt) | F#, Logary, SuaveIO, HTTP.fs, FsAttoparsec | |
-| [Sean Thomas Larkin](https://twitter.com/TheLarkInn) | JavaScript compiler/bundler, WebPack | |
-| [Marcos Pereira](https://twitter.com/marcospereira) | Any project under Play Framework organization | |
-| [Howard Chu](https://twitter.com/hyc_symas) | Happy to mentor OpenLDAP, LMDB, Monero. Can advise on a bunch of other security-related projects as well e.g. OpenSSL, Cyrus SASL, Heimdal or MIT Kerberos, etc. | |
 | [Reuben Bond](https://twitter.com/reubenbond) | Keen to help anyone hoping to contribute to Microsoft Orleans or otherwise :) | |
 | [Raul Raja](https://twitter.com/raulraja) | I'd love to help folks with their first PRs to http://arrow-kt.io  & http://frees.io | |
 | [Steffen Forkmann](https://twitter.com/sforkmann) | FSProjects/Mechanic https://github.com/fsprojects/Mechanic | |
 | [Ed Anderson](https://twitter.com/edyesed) | * | |
-| [Maira Wenzel](https://twitter.com/mairacw) | .NET | |
-| [Matt Weagle](https://twitter.com/mweagle) | Go, https://github.com/mweagle/Sparta | |
 | [Paul Morie](https://twitter.com/cheddarmint) | Kubernetes | |
-| [svetlyak40wt](https://twitter.com/svetlyak40wt) | Working on the refactoring of Common Lisp web framework, known as Weblocks. | |
 | [Paul Tyng](https://twitter.com/ptyng) | Can help with Terraform and various other projects (mostly Go, some Javascript) | |
 | [Sean Knox](https://twitter.com/smk) | Kubernetes, Helm, Azure, AKS, Ruby, Rails, Angular, JavaScript, Terraform, Go  | `<first name>.<last name>@microsoft.com` |
-| [Graydon Hoare](https://twitter.com/graydon_pub) | Happy to help folks interested in compilation-perf work on the swift compiler | |
 | [Jason Lengstorf](https://twitter.com/jlengstorf) | * , GraphQL | |
 | [Tom Harvey](https://twitter.com/tombuildsstuff) | Definitely (Terraform) | |
 | [Ali](https://twitter.com/aliostad) | * | |
@@ -41,16 +33,9 @@ When creating a pull request to add yourself as a mentor, please make sure that 
 | [Hakeem Mohammed](https://twitter.com/hakeemsm) | * | |
 | [ChristosMatskas](https://twitter.com/ChristosMatskas) | * | |
 | [jwendl](https://twitter.com/jwendl) | * | |
-| [Tuomas Hietanen](https://twitter.com/Thoriumi) | https://fsprojects.github.io/SQLProvider/ | |
-| [Michael Quinn](https://twitter.com/michaelquinn32) | I work on RStats packages. Here's one https://github.com/ropenscilabs/skimr. I'd be happy to help anyone interested! | |
 | [Adam Miller](https://twitter.com/TheMaxamillion) | Ansible Core Developer here, sounding off. Happy to help newcomers, we all start somewhere, https://github.com/ansible/ansible. Anyone feel free to @ me. https://github.com/maxamillion  | |
-| [Doug Finke](https://twitter.com/dfinke) | PowerShell | |
 | [Russell Keith-Magee](https://twitter.com/freakboy3742) | The PyBeeWare project has an open offer to mentor anyone that wants to get into OSS contribution. Our getting started guide: https://pybee.org/contributing/how/first-time/ | |
-| [Eric Christopher](https://twitter.com/echristo) | Happy to help people with pretty much any area of clang/llvm - if I can't do the final review I'll help with finding the right person. | |
-| [Anne Ogborn](https://twitter.com/AnnieTheObscure) | I'm up for helping anybody contrib to SWI-Prolog | |
-| [Steve Manuel](https://twitter.com/nilslice) | Would love to help with Ponzu CMS, Golang | |
 | [Davanum Srinivas](https://twitter.com/dims) | OpenStack, Kubernetes | |
-| [Phil Estes](https://twitter.com/estesp) | Moby project, manifest-tool, bucketbench, OCI runc | |
 | [Ryan Gribble](https://twitter.com/ryangribble_)| We love helping first time contributors! Octokit, GitHub API | |
 | [Manuel Aristarán](https://twitter.com/manuelaristaran) | I'm the main author of TabulaPDF . Would love to help | |
 | [Manish Earth](https://twitter.com/ManishEarth) | Rust and Servo | |
@@ -108,9 +93,7 @@ When creating a pull request to add yourself as a mentor, please make sure that 
 | [Vatsal Parekh](https://twitter.com/VatsalParekh1) |  *  | |
 | [Bagrat Aznauryan](https://twitter.com/_bagrat) |  *  | |
 | [Joel Denning](https://twitter.com/Joelbdenning) | * | |
-| [Troy Lindsay](https://twitter.com/troylindsay42) | Powershell | |
 | [Jonathan Irvin](https://twitter.com/sublimegeek) | I’m down for helping people with Git | |
-| [fv3rdugo](https://twitter.com/fv3rdugo) | I'd be happy to help someone with RavadaVDI! | |
 | [Jen Weber](https://twitter.com/jwwweber) | Happy to help people with Ember.js or documentation improvements to almost any JS library| |
 | [evrardjp](https://twitter.com/evrardjp) | Ansible, openstack-ansible !| |
 | [Joyce Hsiao](https://twitter.com/jhsiao999) |  *  | |
@@ -124,20 +107,14 @@ When creating a pull request to add yourself as a mentor, please make sure that 
 | [Adam Dymitruk](https://twitter.com/adymitruk) | * | |
 | [Jon Wood](https://twitter.com/JWood) | Experience with .NET, Python, Jupyter, and data science items | |
 | [Cristian Măgherușan-Stanciu](https://twitter.com/magheru_san) | Eager to mentor people interested to contribute on [AutoSpotting](https://github.com/cristim/autospotting), mainly Go with the AWS SDK | |
-| [Irakli Safareli](https://twitter.com/safareli) | Open for helping people contribute to various Purescript projects | |
-| [Kalle Ott](https://twitter.com/kaoDev) | TypeScript | |
+
+
 | [Esteban Solano G.](https://twitter.com/stvansolano) | I'm helping these days as mentor to help shipping apps to heroku | |
 | [Mauricio Salatino](https://twitter.com/salaboy) | I'm totally in activiti, java, bpm, microservices | |
 | [cyplo](https://twitter.com/cyplo) | Any project really, I can help with reviews, communication with maintainers and whatever else is needed :) I am a contributor to the Rust compiler and other Rust projects, if that helps you choose :) | |
-| [Php Mentoring](https://php-mentoring.org/) | PHP community has a website dedicated exactly to that purpose - network that connects mentors and apprentices. Regardless of the name, it's not limited to PHP only, but (un)related technologies as well. | |
 | [Nicolas CHEVOBBE](https://twitter.com/nicolaschevobbe) | Can mentor anyone who wants to contribute on FirefoxDevTools | |
-| [Jens Schauder](https://twitter.com/jensschauder) | I can help with spring data, especially commons, JPA and JDBC. | |
-| [Spencer Gibb](https://twitter.com/spencerbgibb) | I'm willing to help with Spring Cloud contributions | |
 | [Roshan Jossey](https://twitter.com/sudo__bangbang) | I maintain a project to help beginners get started on contributing open source projects. [First Contributions](https://github.com/Roshanjossey/first-contributions/). We also have a slack team to help/mentor people trying to contribute to open source projects. [Join slack team](https://firstcontributions.herokuapp.com) | |
-| [Shobhit Chittora](https://twitter.com/shobhitchittora) | Contributing to Visual Studio Code and NodeJS | |
-| [Garrett McCullough](https://twitter.com/gwmccull) | I've contributed to React, React Native and a bunch of related projects. Happy to help | |
 | [Josep Prat](https://twitter.com/jlprat) | I can help people having their first PR into Akka HTTP! | |
-| [Pete Higgins](https://twitter.com/pete_higgins) | ruby, testing | |
 | [Manraj Singh](https://twitter.com/manrajsgrover) | Open Source Community Leader @[duckduckgo](https://github.com/duckduckgo) and Contributor to [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev), [PAIR-code/deeplearnjs](https://github.com/PAIR-code/deeplearnjs), [pandas-dev/pandas](https://github.com/pandas-dev/pandas) and [more](https://github.com/ManrajGrover). Ask me about Open Source and self projects. | |
 | [Stian Soiland-Reyes](https://twitter.com/soilandreyes) | Apache Foundation Member, [Taverna](https://taverna.incubator.apache.org/download/code/), [Commons](https://commons.apache.org/components.html), [Juneau](https://juneau.apache.org/#sourceCode.html), [Common Workflow Language](https://github.com/common-workflow-language/), [ORCID](https://github.com/ORCID/ORCID-Source), some [Dockerfile](https://hub.docker.com/r/stain/)s or old-skool:  [JAI ImageIO](https://github.com/jai-imageio/jai-imageio-core), [Beanshell](https://github.com/beanshell/beanshell) | |
 | [Oskar Dudycz](https://twitter.com/oskar_at_net) | I’m widely open for mentoring .Net Core, CQRS and Event Sourcing through PR to my [GoldenEye Framework](https://github.com/oskardudycz/GoldenEye) There’s lot to do and lot to learn! | |
@@ -162,13 +139,11 @@ When creating a pull request to add yourself as a mentor, please make sure that 
 | [@drnic](https://twitter.com/drnic) | Your first port of call for contributing to the Cloud Foundry & BOSH communities | drnic@starkandwayne.com |
 | [Xavier Shay](https://xaviershay.com) | Look for the `small` label on [RSpec projects](https://github.com/rspec/). I also specialize in contributing to code bases in languages I don't know :) | See [website](https://xaviershay.com) |
 | [Noah Watkins](https://twitter.com/noahdesu) | We are a friendly group building a [distributed shared-log](https://github.com/cruzdb/zlog) and [append-only key-value database](https://github.com/cruzdb/cruzdb) on [Ceph](https://github.com/ceph/ceph). There is something for everyone, and we are happy to help anyone get involved. | `<first name>`@cruzdb.org or Twitter |
-| [Tejas Bubane](https://twitter.com/tejasbubane) | Maintainer of [javascript](https://github.com/exercism/javascript/) & [ecmascript](https://github.com/exercism/ecmascript/) tracks on [exercism](http://exercism.io/). But happy to help with [other languages](http://exercism.io/languages) as well. Most issues are easy to get started for first-timers. | DMs open on [twitter](https://twitter.com/tejasbubane) or just `@` in some issue |
+
 | [Marco Zocca](https://twitter.com/ocramz_yo) | Haskell, data science/numerical methods/machine learning | github.com/ocramz , https://gitter.im/dataHaskell/Lobby |
-| [Yashovardhan Agrawal](https://github.com/yashovardhanagrawal) | Maintainer of [Addy](https://github.com/addy-org/). I am available for questions related to JavaScript (React Native, Redux, Node, etc.) and other languages too. Ask away any problem related to open source contributions| Email me on yashovardhan.agrawal@gmail.com or just mention me `@yashovardhanagrawal` in some issue |
+
 | [Anupam Das](https://twitter.com/anupam_das_) | Open Source Enthusiast. Founder [@BroFOSS](https://github.com/BroFOSS). Java, Android, Web, Cloud. GSoC, GCI, or other SoC aspirants can also contact me. | DMs open on [twitter](https://twitter.com/anupam_das_) or just mention [@opticod](https://github.com/opticod) in some issue |
-| [Awesome list of Haskell mentors](https://github.com/willbasky/Awesome-list-of-Haskell-mentors) | Haskell developers who want to mentor beginner-contributors in open source projects. | Contact individual mentors you found on [this](https://github.com/willbasky/Awesome-list-of-Haskell-mentors) page |
-| [Omar Bahareth](https://twitter.com/o_bahareth) | Mainly focused on Ruby, Rails, Elixir, Phoenix, JavaScript, React, and Docker, but always happy to help out with anything else! | `@obahareth` on GitHub or [@o_bahareth on Twitter](https://twitter.com/o_bahareth). |
-| [Eddie Jaoude](http://github.com/eddiejaoude) | Open source fullstack web development, mainly javascript, typescript, node, angular, cucumber, serverless \| Tech events & hackathons \| Diversity & Inclusion | [YouTube](http://youtube.com/eddiejaoude) \| [Twitter](http://twitter.com/eddiejaoude) \| [GitHub](http://github.com/eddiejaoude) |
-| [Vijay Chidambaram](https://twitter.com/vj_chidambaram) | Linux kernel file systems, RocksDB, [PebblesDB](https://github.com/utsaslab/pebblesdb), [CrashMonkey](https://github.com/utsaslab/crashmonkey) |  vijayc@utexas.edu
+
+
 | [Kirankumar Ambati](https://twitter.com/_sudo_user) | Open Source Contributor, Gatsby maintainer, maintainer of [i-can-not-react](https://github.com/KirankumarAmbati/I-can-not-REACT). Ask me about: JavaScript, React, Redux, ES6, NodeJS, ExpressJS | [My Website](https://kirankumarambati.me) |
 | [Vladimir Gorej](https://twitter.com/vladimirgorej) | Functional programming enthusiast, [ramda-adjunct](https://github.com/char0n/ramda-adjunct) author and maintainer. Happy to help people getting started with Functional Programming. Fluent in JavaScript, Elixir, Python. | [blog](https://www.linkedin.com/today/author/vladimirgorej?trk=public_profile_articles_see_all), [github](https://github.com/char0n), [website](https://cz.linkedin.com/in/vladimirgorej), [twitter](https://twitter.com/vladimirgorej)  
