@@ -1,18 +1,3 @@
-# Awesome-Oss-Mentors
-List of very friendly OSS contributors willing to help and mentor others with their first pull requests!
-
-# Why Does This Exist
-
-There are a lot of people who would like to contribute to OSS, and it is great. Sometimes there are thoughts like, "where do I start with this issue?", "I feel like I might break stuff", "how does this compiler work", "I almost got it, but can't seem to connect these two pieces together", and similar. It happens to all of us. That's why it is important for first-time contributors of some project to feel that there are people who can help.
-
-Started with this [tweet](https://twitter.com/lenadroid/status/951982166946201601).
-
-The star symbol under "PR Mentorship Focus area" column means that the mentor didn't indicate their focus area and/or willing to help with any project.
-
-# Mentors, Be Reachable
-
-When creating a pull request to add yourself as a mentor, please make sure that your Twitter Direct Messages are open, or add another way mentees can connect with you (email, slack, etc.).
-
 # Open Source Mentors
 
 | Contributor/Mentor Name | PR Mentorship Focus area | Contact |
@@ -55,37 +40,22 @@ When creating a pull request to add yourself as a mentor, please make sure that 
 | [Cédric L. Charlier](https://twitter.com/Seddryck) | Happy to help new folks to contribute to any MS Data Platform related project. | |
 | [Edward Loveall](https://twitter.com/edwardloveall) | I contribute to http://github.com/luckyframework  or random atom.io packages and I'd be happy to help. | |
 | [Free Benjamin](https://twitter.com/benj_fry) | For anyone interested in DNS, I am always open to people contributing to TRust-DNS, if you’re new to Rust, async-io, networking; I’m happy to try and explain things. | |
-| [Tomáš Herceg](https://twitter.com/hercegtomas) | I am one of the authors of dotvvm, a .NET based MVVM framework for webapps. | |
-| [David LaPalomento](https://twitter.com/dlapalomento) | I contribute to videojs and would be happy to walk someone through their first PR | |
-| [Mustafa Ehsan](https://twitter.com/mustafaaloko) | I have around 10 tiny commits to laravelphp. And yes I am up for helping somebody to get started. | |
-| [Andrew Jeffery](https://twitter.com/mramboar) | I hack on the Linux kernel for OpenBMC and maintain some of the userspace bits and tooling. OpenBMC is a bit of a niche project, but I'm happy to help people wanting to contribute to either | |
-| [Robert Main](https://twitter.com/robertmain_) | https://joshmarinacci.github.io/node-pureimage/ | |
 | [Alyss](https://twitter.com/PreciselyAlyss) | 🙋I have put in some OSS contributions and taught folks git. Happy to help mentor | |
 | [Abdul](https://twitter.com/Abdu1m) | https://github.com/awssat | |
 | [Martin Bean](https://twitter.com/martinbean) | * | |
 | [Bill Glover](https://twitter.com/BillGlover) | * | |
-| [Shane Curcuru](https://twitter.com/shanecurcuru) | Apache Member here to help anyone with governance, brand, or community issues around ASF projects. Or Apache Whimsy PRs. | |
-| [Kyle Mathews](https://twitter.com/kylemathews) | GatsbyJs | |
-| [Jason Bahl](https://twitter.com/jasonbahl) | Happy to help on mentor for wpgraphql | |
 | [Mx. Oat Flat White](https://twitter.com/andante_nz) | Happy to help someone interested in contributing to silverstripe | |
-| [Julien Melissas](https://twitter.com/JulienMelissas) | Absolutely would love to help with this for a Rootswp project or other WordPress project! | |
 | [Sebastiaan van Stijn](https://twitter.com/thaJeztah) | Docker | |
 | [Peter Lyons](https://twitter.com/focusaurus) | * | |
 | [Burhan Khalid](https://twitter.com/burhan) | * | |
-| [James Taylor](https://twitter.com/jtonline) | Count me in for helping with someone's first Hyperledger Composer PR as well as https://twitter.com/danielselman | |
 | [Robert Collins](https://twitter.com/rbtcollins) | * | |
 | [Elliot Blackburn](https://twitter.com/elliotblackburn) | * | |
 | [Claudia Procido](https://twitter.com/claudiopro) | * | |
-| [Trask](https://twitter.com/matthewtrask) | Happy to help with JavaScript and PHP. Maintain a few various projects | |
 | [Andrew Janke](https://twitter.com/apjanke) | Contrib on Mac Homebrew and other projects. Happy to help first timers. | |
 | [Dominik George ](https://twitter.com/Natureshadow) | * | |
-| [Eric Richardson](https://twitter.com/ekrich) | Scala Native and SBT | |
 | [Essam](https://twitter.com/TheBlueSky) | * | |
-| [emily dogmom](https://twitter.com/nasamuffin) | I'll do my best, OpenBMC  | |
 | [Chris](https://twitter.com/cghsystems) | Would love to help anyone get involved in cloudfoundry | |
 | [Claudio Benghi](https://twitter.com/Bonghi_) | Sure, if c++ or c# is your thing. Then xbimteam you want to look at. #Yoda | |
-| [Ben Abelshausen](https://twitter.com/XIVK) | Willing to help people interested in location tech and routing... issues with descriptions are ready! https://github.com/itinero/routing/labels/low-hanging-fruit | |
-| [Andreas Willich](https://twitter.com/SabotageAndi) | Happy to help new people to get into @specflow. We have special first timer only issues: https://github.com/techtalk/SpecFlow/labels/first-timers-only. Simple ping me on our Gitter channel. | |
 | [Mark Railton](https://twitter.com/railto) |  *  | |
 | [Sylvia](https://twitter.com/SylvieLorxu) |  Any contribution to PextTool is always extremely welcome and I'll always try to guide anyone to the best of my ability. In fact, I love to see people contribute!  | |
 | [Samuel Roze](https://twitter.com/samuelroze) | * | |
